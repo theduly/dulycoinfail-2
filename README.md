@@ -41,3 +41,7 @@ Block reward:  	5 DULY
 Total coins:  	700,000,000
 
 Yearly interest:  	5%
+
+P2P Port: 36550
+
+RPC Port: 36552
