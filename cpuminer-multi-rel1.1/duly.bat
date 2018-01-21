@@ -1,0 +1,1 @@
+cpuminer-x64 -a x11 -o http://127.0.0.1:36550 -u user -p pass -t2
